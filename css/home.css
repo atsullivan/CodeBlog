@@ -1,0 +1,94 @@
+.featurette-divider {
+    margin: 40px 0;
+}
+
+.article-img {
+    max-height: 400px;
+    max-width: 500px;
+}
+
+.article-heading {
+    font-family: 'Lato';
+    font-family: 'Gidole';
+    font-weight: 700;
+    font-size: 50px;
+    color: black;
+    -webkit-transition: color .5s;
+    -moz-transition:    color .5s;
+    -ms-transition:     color .5s;
+    -o-transition:      color .5s;
+    transition:         color .5s;
+    /*font-family: 'Oranienbaum';
+    font-family: 'Ailerons';*/
+    
+}
+
+.article-heading:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: 'Oranienbaum';
+}
+
+.footer-heading {
+    font-family: 'Ailerons';
+    color: white;
+    font-size: 40px;
+    -webkit-transition: color .5s;
+    -moz-transition:    color .5s;
+    -ms-transition:     color .5s;
+    -o-transition:      color .5s;
+    transition:         color .5s;
+}
+.footer-heading:hover {
+    text-decoration: none;
+    color: white;
+}
+.footer-item {
+    font-family: 'Ailerons';
+    font-family: 'Oranienbaum';
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    -webkit-transition: color .5s;
+    -moz-transition:    color .5s;
+    -ms-transition:     color .5s;
+    -o-transition:      color .5s;
+    transition:         color .5s;
+}
+.footer-item:hover {
+    text-decoration: none;
+    color: gray;
+}
+
+
+i {
+    color: white;
+}
+
+p {
+    font-family: 'Oranienbaum';
+    font-style: italic;
+    font-size: 50px;
+}
+
+.space-100{
+    height: 100px;
+    display: block;
+}
+
+.verticalLine {
+    border-left: thick solid #ff0000;
+    border-color: white;
+}
+
+.black-section {
+  background-color: black;
+}
+
+.gray-section {
+  background-color: #2E2E2E;
+}
