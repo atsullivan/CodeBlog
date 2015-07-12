@@ -63,6 +63,9 @@ h2 {
     text-decoration: none;
     color: gray;
 }
+.footer-item-active {
+  color: gray;
+}
 
 
 i {
