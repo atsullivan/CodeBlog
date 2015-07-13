@@ -28,6 +28,10 @@
     text-decoration: none;
 }
 
+.article-sub-heading {
+    font-size: 25px;
+    font-family: 'Oranienbaum';
+}
 h2 {
     font-size: 25px;
     font-family: 'Oranienbaum';

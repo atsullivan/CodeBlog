@@ -3,6 +3,31 @@
  * Copyright 2014 Start Bootstrap
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
+.blurred-container{
+  position:relative;
+  width:100%;
+  height:355px;
+  top:0;
+  left:0;
+}
+.blurred-container > .img-src{
+    position:fixed;
+    width:100%;
+    height:355px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center center;
+}
+.title-text {
+  position: absolute; 
+  top: 100px; 
+  left: 0; 
+  width: 100%;
+}
+.main{
+    background-color: #FFFFFF;
+    position: relative;
+}
 .black-section {
   background-color: black;
 }
