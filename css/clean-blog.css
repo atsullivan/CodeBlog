@@ -1,3 +1,8 @@
+
+
+
+
+
 /*!
  * Clean Blog v1.0.0 (http://startbootstrap.com)
  * Copyright 2014 Start Bootstrap
@@ -24,9 +29,19 @@
   left: 0; 
   width: 100%;
 }
+.title-text2 {
+  position: absolute; 
+  top: 120px; 
+  left: 0; 
+  width: 100%;
+}
 .main{
     background-color: #FFFFFF;
     position: relative;
+}
+.about {
+  font-family: 'Oranienbaum';
+  font-size: 40px;  
 }
 .black-section {
   background-color: black;
